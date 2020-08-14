@@ -11,7 +11,7 @@ os.system("toilet -f mono12 -F crop FB Crack")
 print 
 print 'Author : Rahat Khan Tusar(RKT)'
 print
-print 'Information : This program can crack facebook account and recovery facebook password.Do not use vpn.If you use vpn and it is not work'
+print 'Information : This program can crack facebook account and recovery facebook password.Do not use vpn.If you use vpn and it is not work.'
 print
 print 'Version : 2.0'
 print
