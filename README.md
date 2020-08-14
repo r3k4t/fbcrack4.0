@@ -1,7 +1,7 @@
-### Fb Crack 4.0 ###
+### FB Crack 4.0 ###
 
 
-Linux
+<h4>Linux</h4>
 
 This python program can crack facebook account and recover facebook password.
 
@@ -15,4 +15,6 @@ Linux Example:
 <br>
 4.sudo python2 fbcrack.py
 
-![Screenshot at 2020-08-13 10-55-51](https://user-images.githubusercontent.com/69615463/90097523-bc560700-dd53-11ea-90f2-e9fccd21dad5.png)
+<h4>Screenshots</h4>
+
+![Screenshot at 2020-08-14 16-01-41](https://user-images.githubusercontent.com/69615463/90241380-89416f80-de48-11ea-90be-bb3ce7433a57.png)
