@@ -13,7 +13,7 @@ print 'Author : Rahat Khan Tusar(RKT)'
 print
 print 'Information : This program can crack facebook account and recovery facebook password.Do not use vpn.If you use vpn and it is not work.'
 print
-print 'Version : 2.0'
+print 'Version : 4.0'
 print
 email = str(raw_input("Facebook Username (or) Email (or) Phone Number : "))
 passwordlist = str(raw_input("Enter the wordlist name and path : "))
