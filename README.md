@@ -1,5 +1,5 @@
 <h2>FB Crack 4.0<h2.
-
+<br>
 
 <h4>Author : RKT</h4>
 
@@ -20,13 +20,13 @@ This python program can crack facebook account and recover facebook password.
 
 ### Getting Started ###
 
-2.git clone https://github.com/r3k4t/fbcrack4.0.git
+ git clone https://github.com/r3k4t/fbcrack4.0.git
 <br>
-3.cd fbcrack4.0
+ cd fbcrack4.0
 <br>
-4.sudo apt install python2-pip
+ sudo apt install python2-pip
 <br>
-5.sudo python2 fbcrack.py
+ sudo python2 fbcrack.py
 
 ### Screenshots ###
 
