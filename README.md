@@ -1,14 +1,25 @@
-### FB Crack 4.0 ###
+<h2>FB Crack 4.0<h2.
 
 
-<h4>Linux</h4>
+<h4>Author : RKT</h4>
+
+
+### Description ###
 
 This python program can crack facebook account and recover facebook password.
 
-Linux Example:
 
-1.sudo apt install toilet
-<br>
+### Installation ###
+
+<ul>
+  <li>python</li>
+  <li>toilet</li>
+  </ul>
+
+
+
+### Getting Started ###
+
 2.git clone https://github.com/r3k4t/fbcrack4.0.git
 <br>
 3.cd fbcrack4.0
@@ -17,7 +28,7 @@ Linux Example:
 <br>
 5.sudo python2 fbcrack.py
 
-<h4>Screenshots</h4>
+### Screenshots ###
 
 ![Screenshot at 2020-08-14 16-01-41](https://user-images.githubusercontent.com/69615463/90241380-89416f80-de48-11ea-90be-bb3ce7433a57.png)
 <br>
