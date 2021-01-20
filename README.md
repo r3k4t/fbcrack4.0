@@ -52,7 +52,7 @@ This python program can crack facebook account and recover facebook password.
 
 # ERROR
 
-+ A fbcrack4.0 program can not work because facebook login is protected by firewall.
++ A fbcrack4.0 program can not work because facebook login page is protected by firewall.
 
 ### Facebook Firewall Detection ! ###
 
