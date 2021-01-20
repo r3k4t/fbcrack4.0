@@ -50,7 +50,7 @@ This python program can crack facebook account and recover facebook password.
 
 ![Screenshot at 2020-08-14 16-04-13](https://user-images.githubusercontent.com/69615463/90241585-ffde6d00-de48-11ea-9cbc-87043fc2c263.png)
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Facebook Firewall Detection ! 
+![#f03c15](https://via.placeholder.com/15/f03c15/test?text=+) Facebook Firewall Detection ! 
 
 
 + https://facebook.com/login.php?login_attempts=1_
